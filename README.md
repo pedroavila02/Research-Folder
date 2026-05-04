@@ -1,2 +1,2 @@
-# Research-Folder
-Research Folder for masters project
+# Research Flyer
+Research Flyer for masters project
